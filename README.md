@@ -1,0 +1,4 @@
+iac
+===
+
+Inteligencía artificial conexionista 
